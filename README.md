@@ -2,7 +2,7 @@
 
 🚀 **Cloud Security Engineer | AI & Generative AI Enthusiast**
 
-I specialize in **Azure cloud security**, automation, and policy compliance, with a growing passion for **Generative AI** and software development. My work blends **cloud infrastructure security** with modern development practices.
+I specialize in **Azure cloud security**, automation, and compliance — with a growing passion for **Generative AI** and software development. I recently earned my **Microsoft Certified: Azure Security Engineer Associate (AZ-500)** and am now diving deeper into **AI-102** and **AI-powered application development**.
 
 ---
 
@@ -15,11 +15,23 @@ I specialize in **Azure cloud security**, automation, and policy compliance, wit
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Python, Java, PowerShell  
-**Cloud:** Azure (Security, Policy, Functions, Event Grid, DevOps, SDK)  
-**Tools:** GitHub Actions, Azure DevOps, Terraform  
-**AI/ML:** Azure AI, Generative AI, AI-102 Prep  
-**Databases:** SQL
+**Languages & Scripting:**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
+
+**Cloud & DevOps:**  
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
+
+**AI & Machine Learning:**  
+![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?logo=OpenAI&logoColor=white)  
+
+**Databases:**  
+![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white) 
 
 ---
 
@@ -28,6 +40,12 @@ I specialize in **Azure cloud security**, automation, and policy compliance, wit
 - 🔍 Exploring **Generative AI & AI Agents**
 
 ---
+
+### 🏆 Certifications
+- ✅ **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**  
+- 📅 Preparing: **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
+
+----
 
 ### 📈 My GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekta-jha&show_icons=true&theme=tokyonight)
