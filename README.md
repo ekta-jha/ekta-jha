@@ -35,13 +35,6 @@ I specialize in **Azure cloud security**, automation, and compliance — with a 
 - ✅ **Microsoft Certified: Azure Security Engineer Associate (AZ-500)**  
 - 📅 Preparing: **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
 
-----
-
-### 📈 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekta-jha&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekta-jha&layout=compact&theme=tokyonight)
-
-
 ---
 
 💬 *“Securing the cloud today, building intelligent systems for tomorrow.”*
