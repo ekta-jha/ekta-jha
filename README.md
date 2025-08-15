@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ekta Jha
 
-🚀 **Cloud Security Engineer | Aspiring SDE | AI & Generative AI Enthusiast**
+🚀 **Cloud Security Engineer | AI & Generative AI Enthusiast**
 
 I specialize in **Azure cloud security**, automation, and policy compliance, with a growing passion for **Generative AI** and software development. My work blends **cloud infrastructure security** with modern development practices.
 
