@@ -33,11 +33,6 @@ I specialize in **Azure cloud security**, automation, and policy compliance, wit
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekta-jha&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekta-jha&layout=compact&theme=tokyonight)
 
----
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/ekta-jha-690aa4228)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/ekta-jha)
 
 ---
 
