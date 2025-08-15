@@ -15,23 +15,13 @@ I specialize in **Azure cloud security**, automation, and compliance — with a 
 ---
 
 ### 🛠 Tech Stack
-**Languages & Scripting:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
+**Languages & Scripting:**  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)  
 
-**Cloud & DevOps:**  
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white)  
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)  
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
+**Cloud & DevOps:** ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)  
 
-**AI & Machine Learning:**  
-![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white)  
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?logo=OpenAI&logoColor=white)  
+**AI & Machine Learning:** ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?logo=OpenAI&logoColor=white)  
 
-**Databases:**  
-![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white) 
+**Databases:** ![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white) 
 
 ---
 
