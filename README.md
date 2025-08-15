@@ -21,7 +21,7 @@ I specialize in **Azure cloud security**, automation, and compliance — with a 
 
 **AI & Machine Learning:** ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?logo=microsoftazure&logoColor=white) ![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?logo=OpenAI&logoColor=white)  
 
-**Databases:** ![SQL](https://img.shields.io/badge/SQL-316192?logo=postgresql&logoColor=white) 
+**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
