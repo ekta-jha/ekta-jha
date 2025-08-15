@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ekta Jha
 
-🚀 **Cloud Security Engineer&nbsp;|&nbsp;Aspiring SDE&nbsp;|&nbsp;AI &amp; Generative AI Enthusiast**
+🚀 **Cloud Security Engineer&nbsp;|&nbsp;AI &amp; Generative AI Enthusiast**
 
 <hr>
 </div>
