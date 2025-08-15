@@ -40,7 +40,7 @@ I specialize in **Azure cloud security**, automation, and compliance — with a 
 ### 📫 Connect With Me
 - **LinkedIn:** [linkedin.com/in/ekta-jha-690aa4228](https://www.linkedin.com/in/ekta-jha-690aa4228/)  
 - **GitHub:** [github.com/ekta-jha](https://github.com/ekta-jha)  
-- **Email:** :[ektajha0108@gmail.com](mailto:ektajha0108@gmail.com)  
+- **Email:**  [ektajha0108@gmail.com](mailto:ektajha0108@gmail.com)  
 
 ---
 
