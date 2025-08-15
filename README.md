@@ -1,6 +1,10 @@
+<div align="center">
+
 # 👋 Hi, I'm Ekta Jha
 
-🚀 **Cloud Security Engineer | AI & Generative AI Enthusiast**
+🚀 **Cloud Security Engineer&nbsp;|&nbsp;Aspiring SDE&nbsp;|&nbsp;AI &amp; Generative AI Enthusiast**
+
+</div>
 
 I specialize in **Azure cloud security**, automation, and compliance — with a growing passion for **Generative AI** and software development. I recently earned my **Microsoft Certified: Azure Security Engineer Associate (AZ-500)** and am now diving deeper into **AI-102** and **AI-powered application development**.
 
